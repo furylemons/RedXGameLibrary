@@ -1,0 +1,747 @@
+[
+    {
+        "appid": "4704690",
+        "name": "MECCHA CHAMELEON",
+        "added_date": "2026-07-21T07:42:09.793608+00:00",
+        "updated_date": "2026-07-21T07:42:09.793608+00:00",
+        "type": "game",
+        "tags": [
+            "Casual"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846"
+    },
+    {
+        "appid": "4235160",
+        "name": "Traders Life Simulator",
+        "added_date": "2026-07-21T07:45:40.152906+00:00",
+        "updated_date": "2026-07-21T07:45:40.152906+00:00",
+        "type": "game",
+        "tags": [
+            "Casual",
+            "Indie",
+            "Simulation",
+            "Early Access"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235160/da16bd0b43bcf078fc2416aa2ed0dc6d03f5abe7/header.jpg?t=1778656803"
+    },
+    {
+        "appid": "1977570",
+        "name": "A Dance of Fire and Ice - Neo Cosmos",
+        "added_date": "2026-07-21T07:45:40.684429+00:00",
+        "updated_date": "2026-07-21T07:45:40.684429+00:00",
+        "type": "dlc",
+        "tags": [
+            "Indie"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977570/header.jpg?t=1729491759"
+    },
+    {
+        "appid": "4274990",
+        "name": "Minibus Simulator",
+        "added_date": "2026-07-21T07:45:41.230646+00:00",
+        "updated_date": "2026-07-21T07:45:41.230646+00:00",
+        "type": "game",
+        "tags": [
+            "Indie",
+            "Simulation"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4274990/b0eb149fd466d9c33d5ac2b6240a3fa0c1818408/header.jpg?t=1781604697"
+    },
+    {
+        "appid": "2778580",
+        "name": "ELDEN RING Shadow of the Erdtree",
+        "added_date": "2026-07-21T07:45:41.771928+00:00",
+        "updated_date": "2026-07-21T07:45:41.771928+00:00",
+        "type": "dlc",
+        "tags": [
+            "Action",
+            "RPG"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778580/header.jpg?t=1763403045"
+    },
+    {
+        "appid": "3190700",
+        "name": "Midnight Looters",
+        "added_date": "2026-07-21T07:45:42.368767+00:00",
+        "updated_date": "2026-07-21T07:45:42.368767+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Indie",
+            "Early Access"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3190700/d56f2ac3f9483502398a683361cff62ea454f426/header.jpg?t=1775149253"
+    },
+    {
+        "appid": "3751950",
+        "name": "Assassin's Creed Black Flag Resynced",
+        "added_date": "2026-07-21T07:45:42.903292+00:00",
+        "updated_date": "2026-07-21T07:45:42.903292+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1783617053"
+    },
+    {
+        "appid": "1408700",
+        "name": "Osman Gazi",
+        "added_date": "2026-07-21T07:45:43.400990+00:00",
+        "updated_date": "2026-07-21T07:45:43.400990+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408700/header.jpg?t=1728645779"
+    },
+    {
+        "appid": "3859630",
+        "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
+        "added_date": "2026-07-21T07:45:44.066992+00:00",
+        "updated_date": "2026-07-21T07:45:44.066992+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3859630/31d5f5ef4a143bf915429e307f37cab6e2939678/header.jpg?t=1783611854"
+    },
+    {
+        "appid": "2327720",
+        "name": "City Car Driving 2.0",
+        "added_date": "2026-07-21T07:45:44.654727+00:00",
+        "updated_date": "2026-07-21T07:45:44.654727+00:00",
+        "type": "game",
+        "tags": [
+            "Indie",
+            "Racing",
+            "Simulation",
+            "Early Access"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2327720/2a50f033860250e1e3cfe47ca2e3f7514bb54004/header.jpg?t=1784529751"
+    },
+    {
+        "appid": "4286510",
+        "name": "Plobania 47/B",
+        "added_date": "2026-07-21T07:45:45.242105+00:00",
+        "updated_date": "2026-07-21T07:45:45.242105+00:00",
+        "type": "game",
+        "tags": [
+            "Adventure",
+            "Casual",
+            "Indie",
+            "Simulation"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286510/7aeefd80e16f5bf3f4bf399b9f6418eafb680f5d/header.jpg?t=1782241364"
+    },
+    {
+        "appid": "325724",
+        "name": "Dying Light: The Following",
+        "added_date": "2026-07-21T07:45:45.914423+00:00",
+        "updated_date": "2026-07-21T07:45:45.914423+00:00",
+        "type": "dlc",
+        "tags": [
+            "Action",
+            "RPG"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325724/header.jpg?t=1738250676"
+    },
+    {
+        "appid": "2486930",
+        "name": "Dark Riddle",
+        "added_date": "2026-07-21T07:45:46.506655+00:00",
+        "updated_date": "2026-07-21T07:45:46.506655+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Free To Play"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486930/header.jpg?t=1719599325"
+    },
+    {
+        "appid": "1962663",
+        "name": "Call of Duty®: Warzone™",
+        "added_date": "2026-07-21T07:45:47.048679+00:00",
+        "updated_date": "2026-07-21T07:45:47.048679+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Free To Play"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962663/dad01c74cb0909b90e75c40c09e3876a957240aa/header_alt_assets_18.jpg?t=1781624583"
+    },
+    {
+        "appid": "2302120",
+        "name": "Infinitum: The Backrooms Story",
+        "added_date": "2026-07-21T07:45:47.684484+00:00",
+        "updated_date": "2026-07-21T07:45:47.684484+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "Simulation",
+            "Free To Play",
+            "Early Access"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2302120/header.jpg?t=1782177495"
+    },
+    {
+        "appid": "4161620",
+        "name": "Summer Delicious Simulator",
+        "added_date": "2026-07-21T07:45:48.355072+00:00",
+        "updated_date": "2026-07-21T07:45:48.355072+00:00",
+        "type": "game",
+        "tags": [
+            "Casual",
+            "Indie",
+            "Simulation"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4161620/c1c6a4766fa67d3bb340dbb1d000691f7724ac39/header.jpg?t=1774904080"
+    },
+    {
+        "appid": "4669230",
+        "name": "Traders Life Together",
+        "added_date": "2026-07-21T07:45:48.997392+00:00",
+        "updated_date": "2026-07-21T07:45:48.997392+00:00",
+        "type": "game",
+        "tags": [
+            "Casual",
+            "Indie",
+            "Simulation"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669230/e2efee967e6e7e68c91039945225d6f6888004d3/header.jpg?t=1784289786"
+    },
+    {
+        "appid": "4530690",
+        "name": "DEPLETED",
+        "added_date": "2026-07-21T07:45:49.526076+00:00",
+        "updated_date": "2026-07-21T07:45:49.526076+00:00",
+        "type": "game",
+        "tags": [
+            "Indie",
+            "Free To Play",
+            "Early Access"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530690/50b7cae9795387e5d3bdc4dd616e6c90bc62fc74/header.jpg?t=1778102028"
+    },
+    {
+        "appid": "3475080",
+        "name": "Roulette Heist",
+        "added_date": "2026-07-21T07:45:50.186158+00:00",
+        "updated_date": "2026-07-21T07:45:50.186158+00:00",
+        "type": "game",
+        "tags": [
+            "Adventure",
+            "Casual",
+            "Indie",
+            "Simulation",
+            "Strategy"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3475080/132bf7c2cbfed61edd4100e991f202d3defcfc94/header.jpg?t=1765545635"
+    },
+    {
+        "appid": "291480",
+        "name": "Warface: Clutch",
+        "added_date": "2026-07-21T07:45:50.826680+00:00",
+        "updated_date": "2026-07-21T07:45:50.826680+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Massively Multiplayer",
+            "Free To Play"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291480/a5d53fd96d3f04a4d92e3c71a74e5061db8cc186/header.jpg?t=1772125417"
+    },
+    {
+        "appid": "3814170",
+        "name": "Cross The Ages: Arise",
+        "added_date": "2026-07-21T07:45:51.396232+00:00",
+        "updated_date": "2026-07-21T07:45:51.396232+00:00",
+        "type": "game",
+        "tags": [
+            "Massively Multiplayer",
+            "RPG",
+            "Free To Play",
+            "Early Access"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3814170/9e13c723d6146035f4a5bed047e354cdcbf7cdf3/header.jpg?t=1776071268"
+    },
+    {
+        "appid": "2660510",
+        "name": "OCTOPinbs",
+        "added_date": "2026-07-21T07:45:52.014572+00:00",
+        "updated_date": "2026-07-21T07:45:52.014572+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Casual"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2660510/529bffbac77f2df1d3de144c7ba949cf41fd4c2d/header.jpg?t=1778550157"
+    },
+    {
+        "appid": "4662560",
+        "name": "For God and For Profit",
+        "added_date": "2026-07-21T07:45:52.632830+00:00",
+        "updated_date": "2026-07-21T07:45:52.632830+00:00",
+        "type": "game",
+        "tags": [
+            "Indie",
+            "Simulation"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4662560/0fb855cd6d59cde5b67122febb26b09513688c50/header.jpg?t=1784227404"
+    },
+    {
+        "appid": "1858980",
+        "name": "Gravity Game",
+        "added_date": "2026-07-21T07:45:53.306550+00:00",
+        "updated_date": "2026-07-21T07:45:53.306550+00:00",
+        "type": "game",
+        "tags": [
+            "Action"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1858980/header.jpg?t=1673563684"
+    },
+    {
+        "appid": "3453610",
+        "name": "Hoover Heroes",
+        "added_date": "2026-07-21T07:45:53.824396+00:00",
+        "updated_date": "2026-07-21T07:45:53.824396+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Casual",
+            "Indie",
+            "Early Access"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453610/header.jpg?t=1779667312"
+    },
+    {
+        "appid": "3681580",
+        "name": "Bowlers : The bowling experience",
+        "added_date": "2026-07-21T07:45:54.459876+00:00",
+        "updated_date": "2026-07-21T07:45:54.459876+00:00",
+        "type": "game",
+        "tags": [
+            "Indie",
+            "Simulation",
+            "Sports"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681580/cc9da4dbafff296b775ffa05f280bfbb53c48a35/header.jpg?t=1767561051"
+    },
+    {
+        "appid": "2349100",
+        "name": "Flipper Soccer",
+        "added_date": "2026-07-21T07:45:55.008242+00:00",
+        "updated_date": "2026-07-21T07:45:55.008242+00:00",
+        "type": "game",
+        "tags": [
+            "Casual",
+            "Indie",
+            "Sports"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349100/header.jpg?t=1758655444"
+    },
+    {
+        "appid": "3103280",
+        "name": "DreamWorld: Sandbox MMO",
+        "added_date": "2026-07-21T07:45:55.614734+00:00",
+        "updated_date": "2026-07-21T07:45:55.614734+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Casual",
+            "Massively Multiplayer",
+            "RPG",
+            "Early Access"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3103280/4a379c375c9e52aacdca076e53c90cb3470eeea5/header.jpg?t=1782782769"
+    },
+    {
+        "appid": "3014580",
+        "name": "Follow Us",
+        "added_date": "2026-07-21T07:45:56.149660+00:00",
+        "updated_date": "2026-07-21T07:45:56.149660+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Early Access"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014580/5815fa5c148881e6a5ddedbfa0b3acb6e2a21259/header.jpg?t=1782812269"
+    },
+    {
+        "appid": "1575870",
+        "name": "UpGun",
+        "added_date": "2026-07-21T07:45:56.675824+00:00",
+        "updated_date": "2026-07-21T07:45:56.675824+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Casual"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575870/header.jpg?t=1772982912"
+    },
+    {
+        "appid": "3241020",
+        "name": "GEORGIE-YOLKIE™ Enhanced",
+        "added_date": "2026-07-21T07:45:57.339959+00:00",
+        "updated_date": "2026-07-21T07:45:57.339959+00:00",
+        "type": "game",
+        "tags": [
+            "Adventure",
+            "Indie"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241020/9b0f77d9d64f9e9eacfc5892f9dc7d011dacb763/header.jpg?t=1781738419"
+    },
+    {
+        "appid": "2271300",
+        "name": "Safehouse",
+        "added_date": "2026-07-21T07:45:57.922312+00:00",
+        "updated_date": "2026-07-21T07:45:57.922312+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Indie",
+            "Early Access"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2271300/header.jpg?t=1674677999"
+    },
+    {
+        "appid": "1682380",
+        "name": "Survive The Hill",
+        "added_date": "2026-07-21T07:45:58.533858+00:00",
+        "updated_date": "2026-07-21T07:45:58.533858+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Casual",
+            "Indie"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1682380/header.jpg?t=1692380437"
+    },
+    {
+        "appid": "2387280",
+        "name": "Operation Space Force",
+        "added_date": "2026-07-21T07:45:59.053982+00:00",
+        "updated_date": "2026-07-21T07:45:59.053982+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Indie",
+            "Early Access"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2387280/header.jpg?t=1708569992"
+    },
+    {
+        "appid": "1939920",
+        "name": "Cyber Clutch: Hot Import Nights",
+        "added_date": "2026-07-21T07:45:59.694072+00:00",
+        "updated_date": "2026-07-21T07:45:59.694072+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Indie",
+            "Racing"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1939920/header.jpg?t=1756220575"
+    },
+    {
+        "appid": "2120790",
+        "name": "Ringborn",
+        "added_date": "2026-07-21T07:46:00.249974+00:00",
+        "updated_date": "2026-07-21T07:46:00.249974+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2120790/header.jpg?t=1673563658"
+    },
+    {
+        "appid": "1101180",
+        "name": "EverStopped",
+        "added_date": "2026-07-21T07:46:00.769668+00:00",
+        "updated_date": "2026-07-21T07:46:00.769668+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Casual",
+            "Indie"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101180/header.jpg?t=1639749006"
+    },
+    {
+        "appid": "4260570",
+        "name": "The Krampus Game",
+        "added_date": "2026-07-21T07:46:01.341648+00:00",
+        "updated_date": "2026-07-21T07:46:01.341648+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Casual",
+            "Indie",
+            "Massively Multiplayer",
+            "Early Access"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260570/53660838a3344223be95fa3466c8fbb9246167da/header.jpg?t=1769120689"
+    },
+    {
+        "appid": "938200",
+        "name": "Metric Racer",
+        "added_date": "2026-07-21T07:46:01.961311+00:00",
+        "updated_date": "2026-07-21T07:46:01.961311+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Indie",
+            "Racing",
+            "Early Access"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/938200/header.jpg?t=1743699410"
+    },
+    {
+        "appid": "2504540",
+        "name": "CUBE ROYALE",
+        "added_date": "2026-07-21T07:46:02.583128+00:00",
+        "updated_date": "2026-07-21T07:46:02.583128+00:00",
+        "type": "game",
+        "tags": [
+            "Casual",
+            "Indie",
+            "Strategy",
+            "Early Access"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504540/header.jpg?t=1707830597"
+    },
+    {
+        "appid": "988250",
+        "name": "TowerHex",
+        "added_date": "2026-07-21T07:46:03.152720+00:00",
+        "updated_date": "2026-07-21T07:46:03.152720+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Indie",
+            "RPG",
+            "Early Access"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/988250/header.jpg?t=1573837708"
+    },
+    {
+        "appid": "3844970",
+        "name": "Burglin' Gnomes",
+        "added_date": "2026-07-21T07:46:03.629146+00:00",
+        "updated_date": "2026-07-21T07:46:03.629146+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d6127e4eabda23e1d1c727a1875e6b6cb0e634ae/header.jpg?t=1781100001"
+    },
+    {
+        "appid": "2224750",
+        "name": "B1700",
+        "added_date": "2026-07-21T07:46:04.132464+00:00",
+        "updated_date": "2026-07-21T07:46:04.132464+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Casual",
+            "Indie",
+            "Massively Multiplayer",
+            "RPG",
+            "Strategy",
+            "Free To Play",
+            "Early Access"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2224750/header.jpg?t=1705461120"
+    },
+    {
+        "appid": "1364980",
+        "name": "project BLARI",
+        "added_date": "2026-07-21T07:46:04.845072+00:00",
+        "updated_date": "2026-07-21T07:46:04.845072+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Indie"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364980/header.jpg?t=1603184820"
+    },
+    {
+        "appid": "2349430",
+        "name": "Ancestral Players",
+        "added_date": "2026-07-21T07:46:05.515412+00:00",
+        "updated_date": "2026-07-21T07:46:05.515412+00:00",
+        "type": "game",
+        "tags": [
+            "Action",
+            "Indie",
+            "Early Access"
+        ],
+        "nsfw": false,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2349430/fdb1d8ae5d98c67017dcfdbbacce8ba28f6266e3/header.jpg?t=1774892886"
+    },
+    {
+        "appid": "2358780",
+        "name": "The Desolation",
+        "added_date": "2026-07-21T07:46:06.096916+00:00",
+        "updated_date": "2026-07-21T07:46:06.096916+00:00",
+        "type": "game",
+        "tags": [
+            "Action"
+        ],
+        "nsfw": true,
+        "drm": false,
+        "dlc": {},
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358780/header.jpg?t=1749753397"
+    }
+]
